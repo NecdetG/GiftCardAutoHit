@@ -1,0 +1,87 @@
+/*sigma aka xyz wuz here i recommend obfuscating it using https://cssobfuscator.com/*/
+
+/*removing horizontal scroll bar*/
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* black background*/
+
+body {
+    background-color: black;
+}
+
+/* text design*/
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    color: white;
+    text-align: center;
+    font-weight: 350;
+}
+
+/* text design*/
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    color: white;
+    text-align: center;
+    font-weight: 100;
+}
+
+/*text designs*/
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    color: white;
+    text-align: center;
+    font-weight: 100;
+}
+
+/*Input field design*/
+
+input {
+    border: none;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: 200;
+    text-align: center;
+    height: 30px;
+    width: 500px;
+    border-radius: 15px;
+}
+
+/*button's design*/
+
+button {
+    cursor: pointer;
+    position: abosolute;
+    border: none;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+    height: 30;
+    width: 75;
+    border-radius: 45px;
+}
+
+/*To make da input and button in middle v*/
+#container {
+    text-align:center;
+}
+
+video {
+    background-color: rgb(32, 32, 32);
+    border-color: none;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 550;
+    height: 350;
+}
