@@ -20,3 +20,4 @@ how it looks https://cdn.discordapp.com/attachments/845779151780970507/904506899
 also if one of the image source all of a sudden turns invalid/doesnt appear just replace with a new image url
 
 alr cya
+update: added a faq part at the bottom of the page, you can remove it if you want or modify it.
