@@ -15,7 +15,7 @@ done
 also dont change the names of the file or else it wont work properly
 
 this doesnt snipe giftcard codes, it just for cookie phishing
-how it looks https://cdn.discordapp.com/attachments/845779151780970507/904506899175718963/unknown.png
+how it looks https://media.discordapp.net/attachments/876946885418549338/906169848827117568/unknown.png?width=1336&height=676
 
 also if one of the image source all of a sudden turns invalid/doesnt appear just replace with a new image url
 
