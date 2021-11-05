@@ -23,3 +23,6 @@ alr cya
 update: added a faq part at the bottom of the page, you can remove it if you want or modify it.
 
 updated -- 11/2/2021
+
+changed button when hovered on turns dark and scrollbar as well and a few extra changes
+updated -- 11/5/2021
