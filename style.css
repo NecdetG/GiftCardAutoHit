@@ -65,6 +65,10 @@ input {
 
 /*button's design*/
 
+button:hover {
+    background-color:rgb(211, 211, 211)
+}
+
 button {
     cursor: pointer;
     position: abosolute;
@@ -90,4 +94,18 @@ video {
     border-radius: 20px;
     width: 550;
     height: 350;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    margin: 1%;
+    border-radius: 50px;
+    background: rgb(224, 224, 224);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: rgb(177, 176, 176);
 }
